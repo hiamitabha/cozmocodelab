@@ -1,0 +1,4 @@
+In this program, we draw on Cozmo's face with the help of a cube. We detect the
+changes in location of the cube, and use the relative movements to draw on
+Cozmo's face. The example video shows how to draw a triangle, a diamond, and a
+square.

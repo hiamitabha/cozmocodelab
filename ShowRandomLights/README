@@ -1,0 +1,4 @@
+In this example, we demonstrate how a program written in Cozmo Code Labs
+Constructor mode can randomly change cube colors when a cube is tapped. This
+code demonstrates the following concepts: Conditional statements, Loops,
+Random events, and Function invocations.

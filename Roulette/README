@@ -1,0 +1,4 @@
+ A simple program in Anki Cozmo Code Labs Constructor mode to play the game of
+ roulette. We first choose a cube by tapping it, and then Cozmo rotates and
+ checks which is the first cube that is visible to it. If there is a match, we
+ win, else we loose.

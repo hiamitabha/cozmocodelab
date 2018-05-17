@@ -1,0 +1,3 @@
+In this code, we illustrate how we can teach Cozmo how to read a number. The
+three cubes turn into our keyboard, and we tap the cubes to tell Cozmo a three
+digit number. At the end, Cozmo speaks out the number.
