@@ -1,0 +1,3 @@
+This is a remix of teh Cozmo project - Draw in Circles. Instead, Cozmo waits
+for you to rotate the cube by a certain angle, and then drives in a circle
+around the cube only till that certain angle.
