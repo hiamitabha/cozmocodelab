@@ -1,0 +1,18 @@
+ A simple program in Anki Cozmo Code Labs Constructor mode to play the game of
+ blackjack, with Cozmo playing the role of the dealer.
+
+ Please refer to https://en.wikipedia.org/wiki/Blackjack for a history of
+ Blackjack and the most common rules that the game is played with.
+
+ This version supports all the rules played in US casinos except the split
+ hand.
+
+ The program is designed to play for a best of 5 games, but that can be
+ changed easily in the program.
+
+ Otherwise, the rules are simple. Tap the blue cube to start a game, then tap
+ a green cube to draw an additional card, else tap the red cube to stop.
+ Unless you have busted your hand, Cozmo will take turns after you.
+
+ Hope you enjoy the game. As usual, please keep the feedback coming. Thanks.
+ 
